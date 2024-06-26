@@ -47,14 +47,10 @@ Location1 RODC2 adminUser2 192.168.0.12
 Location2 RODC3 adminUser3 192.168.0.13
 Location2 RODC4 adminUser4 192.168.0.14
 
-python
-Code kopieren
 
 Each line represents a server with the format:
 <Location> <ServerName> <Username> <IP>
 
-shell
-Code kopieren
 
 ## Example
 
