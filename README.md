@@ -63,8 +63,6 @@ Available servers in Location1:
 Please choose a server (1, 2, ...): 1
 Connecting to RODC1 (192.168.0.11) as user adminUser1
 
-csharp
-Code kopieren
 
 ## Contribution
 
