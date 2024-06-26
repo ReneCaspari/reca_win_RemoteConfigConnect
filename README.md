@@ -31,7 +31,7 @@ RemoteConfigConnect is a simple C++ tool designed to initiate a Remote Desktop c
 
 1. **Run the application:**
     ```sh
-    RemoteConfigConnect.exe
+    reca_win_RemoteConfigConnect.exe
     ```
 
 2. **Follow the prompts:**
